@@ -1,5 +1,8 @@
 **AMANA FOODS SUPPLY CHAIN PERFORMANCE ANALYSIS REPORT**
 
+**INDUSTRY : FMCG**
+
+**DOMAIN : SUPPLY CHAIN**
 
 This is an **unguided Project**.
 
